@@ -1,0 +1,3 @@
+hostname = "YOUR_HOSTNAME"
+organization = "YOUR_ORG"
+workspaces { name = "YOUR_WORKSPACE" }
